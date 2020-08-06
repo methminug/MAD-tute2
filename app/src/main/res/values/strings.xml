@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UsingStrings</string>
+    <string name="FirstText">Tutorial 2</string>
+    <string name="SecondText">Using strings.xml to manipulate strings in app</string>
+</resources>
